@@ -1,0 +1,4 @@
+#Wed Sep 18 22:18:23 PKT 2024
+base.0=/Users/hasanburney/Desktop/flutter projects(1)/movie_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
